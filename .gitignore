@@ -1,5 +1,5 @@
-node_modules
-dist
+# Yeoman / Github recommended #
+###############################
 .tmp
 .sass-cache
 app/bower_components
@@ -7,7 +7,6 @@ test/bower_components
 node_modules/
 bower_components/
 *.log
-
 build/
 dist/
 
